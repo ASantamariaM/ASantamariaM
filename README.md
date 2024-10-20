@@ -25,7 +25,8 @@ Spreadsheet
 Slack, Discord, GoogleMeet
 
 ## Contacto:
-* linkedin.com/in/angélica-santamaría-data-analytics
+
+*www.linkedin.com/in/angélica-santamaría-data-analytics
 * angelicasantamaria@live.com
 * Tel: +57 3248051582
 
